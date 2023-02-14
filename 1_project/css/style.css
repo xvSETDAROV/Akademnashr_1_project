@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.banner ul li {
+  margin: 10px;
+  padding: 10px;
+  border: 10px;
+}
